@@ -1,0 +1,11 @@
+2 phần
+P1: Tìm hiểu lý thuyết 
+P2: Bài thí nghiệm thu tín hiệu vệ tinh
++Phổ của tín hiệu thu từ vệ tinh
++Phân tích tính chất thống kê  của tín hiệu
+-phương sai giái trị trung bình
+-Histogram
++Phân tích & thiết kê thuật toán dò tín hiệu(Acquisition) sử dụng bộ tương quan nối tiếp( serial correlartor)
++Trình bày kết quả đề tài tín hiệu tất cả các vệ tinh có trong dataset
+*T, fd
+*Vẽ search qua 3 chiều 
